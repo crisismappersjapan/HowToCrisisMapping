@@ -21,8 +21,6 @@ http://bit.ly/1VqXzVy
 >http://wiki.openstreetmap.org/wiki/JA:GSImaps
 
 
-http://wiki.openstreetmap.org/wiki/JA:GSImaps
-
 ・電子国土基本図（オルソ画像）
 http://cyberjapandata.gsi.go.jp/xyz/ort/{z}/{x}/{y}.jpg
 source=GSImaps/ort
