@@ -8,26 +8,29 @@ http://tasks.hotosm.org/project/1778
 ・道路が古いY!データのままなので適宜地理院地形図やオルソで修正を行ってから建物を作成することが望ましい
 ・建物も多いためツールはJOSM＋Bulidngplugin推奨 (edited)
 IDでもできなくもないがけっこうツライと思う
-・密集地は適宜分割するようにしないと憤死する
+・密集地は適宜分割するようにして負担を軽減するように
 
 ###Source
 
-基本的にこの2つで作成中
 被災前の地理院タイルレイヤ一覧
-※おそらく緊急撮影のタイルリンクもここに載るか載せることになるはず
+飯田さん20160416AM情報
+http://bit.ly/1VqXzVy
+>今回の震災対応として、地理院より、宇城地区の地理院地図レイヤーが公開されました。
+>他の地理院地図レイヤーと同様、オブジェクトあるいは変更セットへのタグづけに "source=GSImaps/20160414kumamoto_0415dol3" >を付与することで利用が可能です。
+>JOSMなどへの追加方法などについては、以下のドキュメントを参照ください。
+>http://wiki.openstreetmap.org/wiki/JA:GSImaps
+
+
 http://wiki.openstreetmap.org/wiki/JA:GSImaps
 
-・地形図
+・電子国土基本図（オルソ画像）
+http://cyberjapandata.gsi.go.jp/xyz/ort/{z}/{x}/{y}.jpg
+source=GSImaps/ort
 
+・地形図(道路線の参照）
 http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png
-
 source=GSImaps/std
 
-・電子国土基本図（オルソ画像）
-
-http://cyberjapandata.gsi.go.jp/xyz/ort/{z}/{x}/{y}.jpg
-
-source=GSImaps/ort
 
 #あなたのコミュニティでHOT入力チームをつくるには
 
