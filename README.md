@@ -1,18 +1,27 @@
 # HowToCrisisMapping
 
+###for beginners
+かんたんなHOT活動の手引はこちらから
+http://dohokugeo.blogspot.jp/2015/04/blog-post.html
+http://dohokugeo.blogspot.jp/2015/04/blog-post_29.html
+
 ###Task
 こちらで進行中、赤色エリアを中心にすすめること
+
+http://tasks.hotosm.org/project/1786
+http://tasks.hotosm.org/project/1787
 http://tasks.hotosm.org/project/1778
 
 ###現況
 ・道路が古いY!データのままなので適宜地理院地形図やオルソで修正を行ってから建物を作成することが望ましい
+
 ・建物も多いためツールはJOSM＋Bulidngplugin推奨 (edited)
-IDでもできなくもないがけっこうツライと思う
+
 ・密集地は適宜分割するようにして負担を軽減するように
 
 ###Source
 
-被災前の地理院タイルレイヤ一覧
+
 飯田さん20160416AM情報
 http://bit.ly/1VqXzVy
 >今回の震災対応として、地理院より、宇城地区の地理院地図レイヤーが公開されました。
@@ -33,7 +42,11 @@ source=GSImaps/std
 #あなたのコミュニティでHOT入力チームをつくるには
 
 ##準備物
-PC・マウス（可能なら）・ネット環境・OSMマッパー（HOT経験者がいると望ましい）・モチベーションの高いメンバ、など
+・PC・マウス（可能なら）
+
+・ネット環境・OSMマッパー（HOT経験者がいると望ましい）
+
+・モチベーションの高いメンバ、など
 
 ##立ち上げタスクリスト
 ・OSM・HOT経験のあるコアメンバーの招集
