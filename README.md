@@ -2,15 +2,15 @@
 
 ###for beginners
 かんたんなHOT活動の手引はこちらから
+
 http://dohokugeo.blogspot.jp/2015/04/blog-post.html
+
 http://dohokugeo.blogspot.jp/2015/04/blog-post_29.html
 
 ###Task
-こちらで進行中、赤色エリアを中心にすすめること
+こちらを参考にすること
+http://wiki.openstreetmap.org/wiki/JA:2016_Kumamoto_earthquake
 
-http://tasks.hotosm.org/project/1786
-http://tasks.hotosm.org/project/1787
-http://tasks.hotosm.org/project/1778
 
 ###現況
 ・道路が古いY!データのままなので適宜地理院地形図やオルソで修正を行ってから建物を作成することが望ましい
