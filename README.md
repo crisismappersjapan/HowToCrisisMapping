@@ -1,25 +1,23 @@
 # HowToCrisisMapping
 
-###for beginners
+### for beginners
 かんたんなHOT活動の手引はこちらから
 
 http://dohokugeo.blogspot.jp/2015/04/blog-post.html
 
 http://dohokugeo.blogspot.jp/2015/04/blog-post_29.html
 
-###Task
+### Task
 こちらを参考にすること
 http://wiki.openstreetmap.org/wiki/JA:2016_Kumamoto_earthquake
 
 
-###現況
-・道路が古いY!データのままなので適宜地理院地形図やオルソで修正を行ってから建物を作成することが望ましい
+### 現況
+* 道路が古いY!データのままなので適宜地理院地形図やオルソで修正を行ってから建物を作成することが望ましい
+* 建物も多いためツールはJOSM＋Bulidngplugin推奨 (edited)
+* 密集地は適宜分割するようにして負担を軽減するように
 
-・建物も多いためツールはJOSM＋Bulidngplugin推奨 (edited)
-
-・密集地は適宜分割するようにして負担を軽減するように
-
-###Source
+### Source
 
 
 飯田さん20160416AM情報
@@ -30,42 +28,35 @@ http://bit.ly/1VqXzVy
 >http://wiki.openstreetmap.org/wiki/JA:GSImaps
 
 
-・電子国土基本図（オルソ画像）
+* 電子国土基本図（オルソ画像）
 http://cyberjapandata.gsi.go.jp/xyz/ort/{z}/{x}/{y}.jpg
 source=GSImaps/ort
 
-・地形図(道路線の参照）
+* 地形図(道路線の参照）
 http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png
 source=GSImaps/std
 
 
-#あなたのコミュニティでHOT入力チームをつくるには
+# あなたのコミュニティでHOT入力チームをつくるには
 
-##準備物
+## 準備物
 ・PC・マウス（可能なら）
 
 ・ネット環境・OSMマッパー（HOT経験者がいると望ましい）
 
 ・モチベーションの高いメンバ、など
 
-##立ち上げタスクリスト
-・OSM・HOT経験のあるコアメンバーの招集
-
-・人員募集（基本的GISスキルと時間があるやつ来て！的な内容で）
-
-・JOSMのセットアップ
-
-・スキルを見極めて、初心者・経験者でわけ、バランスによってコアメンバーレクチャー担当を割り振り
-
-・初心者にはアカウント作成→TaskingManagerの使い方説明
+## 立ち上げタスクリスト
+* OSM・HOT経験のあるコアメンバーの招集
+* 人員募集（基本的GISスキルと時間があるやつ来て！的な内容で）
+* JOSMのセットアップ
+* スキルを見極めて、初心者・経験者でわけ、バランスによってコアメンバーレクチャー担当を割り振り
+* 初心者にはアカウント作成→TaskingManagerの使い方説明
 →JOSM＋building pluginで建物作成
+* 経験者にはJOSM＋building pluginで建物作成
 
-・経験者にはJOSM＋building pluginで建物作成
-
-##気をつけたいこと
-・各メンバーの気力体力は十分な配慮を
-
-・適宜休憩をとりましょう
-
-・無理強いはよくない
+## 気をつけたいこと
+* 各メンバーの気力体力は十分な配慮を
+* 適宜休憩をとりましょう
+* 無理強いはよくない
 
