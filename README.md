@@ -1,4 +1,9 @@
-# HowToCrisisMapping
+# How to do Crisis Mapping
+
+Updating now...
+
+
+--- 過去のMEMO
 
 ### for beginners
 かんたんなHOT活動の手引はこちらから
